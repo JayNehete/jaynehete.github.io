@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2447.jpeg"
+  avatar           : "propic.png"
   name             : "Jay Nehete"
   pronouns         : # example: "she/her"  
   bio              : "MSCS Student at TAMU"
